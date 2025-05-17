@@ -3,7 +3,7 @@
 
 A comprehensive billiard physics simulator that models realistic ball dynamics, collisions, and spin effects with an interactive visualization and analysis dashboard.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Billiard+Simulation+Screenshot)
+
 
 ## Features
 
@@ -27,9 +27,6 @@ A comprehensive billiard physics simulator that models realistic ball dynamics, 
   - Performance metrics and statistics
   - Shot outcome prediction
 
-## Demo
-
-https://github.com/yourusername/billiard-simulation/assets/demo.gif
 
 ## Requirements
 
@@ -137,18 +134,13 @@ billiard-simulation/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU GPL 3 License - see the LICENSE file for details.
 
 ## Acknowledgments
+- Special thanks to Cluade 3.7 Sonnet Thinking
 
-- The physics equations are based on research by [relevant paper or author]
-- Special thanks to [contributors]
 
-## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/billiard-simulation](https://github.com/yourusername/billiard-simulation)
 =======
 # billiard-simulation
 >>>>>>> 350c1483d414098dfc409e134c33ca521e9bb166
